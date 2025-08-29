@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>css/qss/Ubuntu.qss</file>
+        <file>css/qss/NeonButtons.qss</file>
+        <file>css/qss/MaterialDark.qss</file>
+        <file>css/qss/ManjaroMix.qss</file>
+        <file>css/qss/MacOS.qss</file>
+        <file>css/qss/light.qss</file>
+        <file>css/qss/ElegantDark.qss</file>
+        <file>css/qss/dark.qss</file>
+        <file>css/qss/Cyan.qss</file>
+        <file>css/qss/ConsoleStyle.qss</file>
+        <file>css/qss/Aqua.qss</file>
+        <file>css/qss/Amoled.qss</file>
+        <file>css/qss/银色.qss</file>
+        <file>css/qss/浅蓝色.qss</file>
+        <file>css/qss/蓝色扁平.qss</file>
+        <file>css/qss/蓝色.qss</file>
+        <file>css/qss/灰色.qss</file>
+        <file>css/qss/黑色.qss</file>
+        <file>css/index.css</file>
+        <file>css/qss/others/17.qss</file>
+        <file>css/qss/others/16.qss</file>
+        <file>css/qss/others/15.qss</file>
+        <file>css/qss/others/14.qss</file>
+        <file>css/qss/others/13.qss</file>
+        <file>css/qss/others/12.qss</file>
+        <file>css/qss/others/11.qss</file>
+        <file>css/qss/others/10.qss</file>
+        <file>css/qss/others/9.qss</file>
+        <file>css/qss/others/8.qss</file>
+        <file>css/qss/others/7.qss</file>
+        <file>css/qss/others/6.qss</file>
+        <file>css/qss/others/5.qss</file>
+        <file>css/qss/others/4.qss</file>
+        <file>css/qss/others/3.qss</file>
+        <file>css/qss/others/2.qss</file>
+        <file>css/qss/others/1.qss</file>
+        <file>map.qml</file>
+        <file>waypoint.png</file>
+    </qresource>
+</RCC>
